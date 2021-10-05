@@ -2,5 +2,5 @@
 @@||click.linksynergy.com^
 # For Riot Games
 @@||ekg.riotgames.com^
-# 
+# Disclosures
 @@||disclosures.io^
