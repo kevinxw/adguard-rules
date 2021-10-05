@@ -1,1 +1,1 @@
-paid.outbrain.com^
+0.0.0.0 paid.outbrain.com
