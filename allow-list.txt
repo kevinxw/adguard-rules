@@ -1,5 +1,5 @@
 # For Slickdeals
 @@||click.linksynergy.com^
 # For Riot Games
-@@||riotgames.com^
+@@||ekg.riotgames.com^
 @@||disclosures.io^
